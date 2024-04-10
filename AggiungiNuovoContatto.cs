@@ -1,3 +1,4 @@
+
 Console.Writeline("Inserisci un nuovo contatto");
 int nomeCompleto =Console.ReadLine();
 
